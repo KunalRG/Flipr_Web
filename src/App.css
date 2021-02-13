@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+/*Navbar styling*/
+.nav-container{
+  
+  padding: 50px;
+  background-color:burlywood;
+  color: black;
+  
+}
+.home{
+  text-align: left;
+  font-size: 50px;
+}
+.feature{
+  margin-left: 20px;
+
+}
+.head{
+  text-align: center;
+  font-size: 20px;
+}
